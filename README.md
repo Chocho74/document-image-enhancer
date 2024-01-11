@@ -1,4 +1,4 @@
-# document-image-enhancer
+# Document-image-enhancer
 Conception, development and optimization of an image quality enhancement program
 
 # Purpose
@@ -55,3 +55,5 @@ A basic execution of the command with it's command line arguments looks like thi
 
 Some further guidance of how to tune those parameters can be found in the corresponding paper,
 also found in this repository.
+
+Many thanks to my fellow student Mario Baars, who took care of the documentation and the Cmake scripts. 
